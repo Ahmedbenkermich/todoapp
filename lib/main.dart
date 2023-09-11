@@ -1,11 +1,11 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables, unused_import
 
 import 'package:flutter/material.dart';
-import 'package:todoapp/models/todo.dart';
-import 'package:todoapp/widget/counter.dart';
-import 'package:todoapp/widget/new_todo.dart';
-import 'package:todoapp/widget/todoCard.dart';
-import 'package:todoapp/widget/todo_list.dart';
+import 'package:TodoApp/models/todo.dart';
+import 'package:TodoApp/widget/counter.dart';
+import 'package:TodoApp/widget/new_todo.dart';
+import 'package:TodoApp/widget/todoCard.dart';
+import 'package:TodoApp/widget/todo_list.dart';
 import 'package:uuid/uuid.dart';
 
 void main() {
